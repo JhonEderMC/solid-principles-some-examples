@@ -2,3 +2,9 @@
 
 Crea una clase abstracta llamada Forma con un método abstracto calcularArea().
 Crea dos clases, Circulo y Rectangulo, que hereden de Forma y proporcionen implementaciones concretas para el cálculo del área.
+
+## Principio de Abierto/Cerrado (OCP):
+
+Define una interfaz llamada Descuento con un método aplicarDescuento(double precio).
+Crea dos clases que implementen la interfaz Descuento, DescuentoPorcentaje y DescuentoMontoFijo, con implementaciones concretas de cálculos de descuento.
+
