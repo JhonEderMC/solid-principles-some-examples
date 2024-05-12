@@ -1,4 +1,4 @@
-package srp;
+package main.srp;
 
 public class Rectangle implements Form {
 
