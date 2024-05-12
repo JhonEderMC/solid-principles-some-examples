@@ -1,4 +1,4 @@
-package main.srp;
+package main.java.srp;
 
 public class Circle implements Form {
 

@@ -1,6 +1,6 @@
 package main;
 
-import main.ocp.TestOcp;
+import main.java.ocp.TestOcp;
 
 public class Main {
     public static void main(String[] args) {

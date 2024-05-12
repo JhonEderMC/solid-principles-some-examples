@@ -1,6 +1,6 @@
 package lsp;
 
-import main.srp.Form;
+import main.java.srp.Form;
 
 import java.util.Arrays;
 

@@ -1,9 +1,8 @@
-package test.srp;
+package test.java.srp;
 
-import main.Main;
-import main.srp.Circle;
-import main.srp.GeometryForm;
-import main.srp.Rectangle;
+import main.java.srp.Circle;
+import main.java.srp.GeometryForm;
+import main.java.srp.Rectangle;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 

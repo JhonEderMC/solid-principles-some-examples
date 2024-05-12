@@ -1,4 +1,4 @@
-package main.ocp;
+package main.java.ocp;
 
 public class DiscountPercentage implements Discount {
 
