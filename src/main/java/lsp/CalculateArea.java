@@ -1,4 +1,4 @@
-package lsp;
+package main.java.lsp;
 
 import main.java.srp.Form;
 
